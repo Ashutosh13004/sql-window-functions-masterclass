@@ -42,4 +42,4 @@ We use a fictional **company employee + sales** dataset with 4 tables:
 - Can practice on: Redshift Query Editor, pgAdmin, DB Fiddle, or any SQL tool
 
 ## Author
-Ashutosh Kumar — Quality Lead transitioning to Data Engineering
+Ashutosh Kumar 
